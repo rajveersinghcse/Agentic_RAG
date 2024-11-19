@@ -75,7 +75,7 @@ This project implements an **Agentic Retrieval-Augmented Generation (RAG)** syst
 - **Qdrant**: Must be running locally or configured to a remote host in the code.
 
 ## Requirements
-- Python 3.8+
+- Python 3.8+ (I used 3.12.7)
 - Valid OpenAI API Key
 - Running instance of Qdrant
 

@@ -1,0 +1,8 @@
+/rag_data/
+/collections/
+/aliases/
+/.deleted/
+.env
+app.ipynb
+new_app.py
+raft_state.json

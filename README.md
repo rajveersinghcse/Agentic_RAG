@@ -85,7 +85,6 @@ This project implements an **Agentic Retrieval-Augmented Generation (RAG)** syst
 - `PyPDF2`
 - `beautifulsoup4`
 - `qdrant-client`
-- `tqdm`
 - `litellm`
 - `duckduckgo_search`
 - `langchain_text_splitters`

@@ -1,8 +1,5 @@
 import streamlit as st
-import os
 import PyPDF2
-from tqdm import tqdm
-import re
 import json
 import requests
 from typing import Optional

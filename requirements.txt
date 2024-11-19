@@ -1,6 +1,5 @@
 streamlit==1.40.1
 PyPDF2==3.0.1
-tqdm==4.67.0
 langchain-text-splitters==0.3.2
 litellm==1.52.10
 qdrant-client==1.12.1

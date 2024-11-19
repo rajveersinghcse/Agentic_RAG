@@ -266,7 +266,7 @@ def answer_question(question, client, collection_name, top_k=3):
                 },
                 {"content": user_prompt.format(question=question), "role": "user"},
             ],
-            max_tokens=1000,
+            max_tokens=50,
             api_key=st.session_state.openai_api_key,
         )
         has_answer = response.choices[0].message.content
